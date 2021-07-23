@@ -1,0 +1,5 @@
+addSbtPlugin("org.scalameta" % "sbt-scalafmt" % "2.4.0") 
+addSbtPlugin("ch.epfl.scala"             % "sbt-release-early" % "2.1.1")
+addSbtPlugin("de.heikoseeberger"         % "sbt-header"        % "5.2.0")
+addSbtPlugin("net.vonbuchholtz"   % "sbt-dependency-check"      % "2.0.0")
+addSbtPlugin("com.timushev.sbt"   % "sbt-updates"               % "0.5.1")
